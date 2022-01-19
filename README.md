@@ -18,15 +18,9 @@
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+2. Copy `dunstrc` to `$HOME/.config/dunst/`
+4. `killall dunst;notify-send foo` to reload Dunst
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Lokesh Krishna](https://github.com/catppuccin)
