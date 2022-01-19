@@ -19,7 +19,7 @@
 
 1. Clone this repository locally
 2. Copy `dunstrc` to `$HOME/.config/dunst/` or replace the relevant parts of your existing `dunstrc` with the contents of `dunstrc`
-4. `killall dunst;notify-send foo` to reload Dunst
+4. `killall dunst; dunst &` to reload Dunst
 
 ## 💝 Thanks to
 
